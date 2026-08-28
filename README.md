@@ -1,43 +1,61 @@
 # 📝 Task Manager
 
-A simple, responsive, and user-friendly Task Manager web application built using HTML, CSS, and JavaScript. This project allows users to create, organize, manage, and track their daily tasks easily.
+A simple and responsive Task Manager web application built using HTML, CSS, and JavaScript. The project helps users create, organize, manage, and track their daily tasks through an easy-to-use interface.
 
-## 🚀 Features
+# 🚀 Features
 
-### Task Management
+- ➕ Add new tasks
+- ✏️ Edit existing tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete unwanted tasks
+- 🔍 Search tasks easily
+- 📂 Organize tasks using categories
+- ⭐ Set task priorities
+- 📊 Track task progress
+- 🌙 Light and dark mode
+- 💾 Save tasks using Local Storage
+- 📱 Responsive and user-friendly design
 
-- ➕ **Add Task** — Create new tasks
-- ✏️ **Edit Task** — Update existing tasks
-- ✅ **Complete Task** — Mark tasks as completed
-- 🗑️ **Delete Task** — Remove unwanted tasks
-
-### Additional Features
-
-- Task categories
-- Priority selection
-- Due date management
-- Search tasks
-- Filter tasks by status and category
-- Sort tasks
-- Progress tracking
-- Light and dark mode
-- Local storage for saving tasks
-- Responsive and user-friendly interface
-
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - **HTML5** — Creates the structure of the application
 - **CSS3** — Provides styling, themes, and responsive design
-- **JavaScript** — Handles task management and user interactions
-- **LocalStorage** — Saves tasks in the browser
+- **JavaScript** — Handles task functionality and user interactions
+- **LocalStorage** — Saves task data in the browser
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
-TaskManager-App/
+Task-Manager/
 │
-├── index.html       # Main HTML file
-├── style.css        # Styling and responsive design
-├── script.js        # Task Manager functionality
-├── favicon.svg      # Application icon
-└── README.md        # Project documentation
+├── index.html                   # Main HTML file
+├── style.css                    # Styling and responsive design
+├── script.js                    # Task Manager functionality
+├── assets/                      # Images and other assets
+└── README.md                    # Project documentation
+```
+
+# 💻 Prerequisites
+
+Before running the project, make sure you have installed:
+
+- **A modern web browser**
+- **Visual Studio Code** or any code editor
+
+# ▶️ How to Run
+
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open the `index.html` file in any modern web browser.
+4. Start adding and managing your tasks.
+
+# 📚 Learning Outcomes
+
+- HTML page structure
+- CSS styling
+- Responsive web design
+- JavaScript functions
+- DOM manipulation
+- Event handling
+- LocalStorage API
+- Task filtering and management
