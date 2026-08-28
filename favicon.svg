@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Clipboard Body -->
+  <rect x="96" y="80" width="320" height="384" rx="40" fill="#3b82f6"/>
+  <!-- Clipboard Clip -->
+  <rect x="176" y="40" width="160" height="64" rx="16" fill="#1d4ed8"/>
+  <!-- Checkmark -->
+  <path d="M160 240 L216 296 L336 176" stroke="#ffffff" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Task Line -->
+  <line x1="176" y1="360" x2="336" y2="360" stroke="#ffffff" stroke-width="32" stroke-linecap="round"/>
+</svg>
